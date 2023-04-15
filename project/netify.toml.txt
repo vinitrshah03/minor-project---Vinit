@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/minor.html"
-status = 200
